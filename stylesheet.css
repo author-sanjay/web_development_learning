@@ -34,3 +34,11 @@ p.body{
     font-variant: normal;
 }
 
+h2{
+    color: firebrick;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: normal;
+    text-align: center;
+}
