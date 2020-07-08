@@ -11,9 +11,26 @@ h1{
     text-align: center;
 }
 
-p{
+p.intro{
     color: brown;
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-content: center;
 }
+
+h3.question{
+    color: darkmagenta;
+    font-style: oblique;
+    font-weight: bolder;
+    text-align: center;
+    vertical-align: auto;
+
+}
+p.body{
+    color: deeppink;
+    align-content: center;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: normal;
+}
+
