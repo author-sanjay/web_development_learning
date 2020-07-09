@@ -42,13 +42,13 @@ p.intro{
 
 
 
-h3.question{
+h2.question{
     color: darkmagenta;
     font-style: oblique;
     font-weight: bolder;
     text-align: center;
     vertical-align: auto;
-    font-size: 30px;
+    font-size: 50px;
 
 }
 p.body{
@@ -61,6 +61,9 @@ p.body{
     padding-left: 20px;
 }
 
+div.body{
+    float: left;
+}
 h2{
     color: firebrick;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
