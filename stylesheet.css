@@ -40,10 +40,7 @@ p.intro{
     padding-left: 110px;
 }
 
-img{
-    align-self: center;
-    align-items: center;
-}
+
 
 h3.question{
     color: darkmagenta;
@@ -55,12 +52,13 @@ h3.question{
 
 }
 p.body{
-    color: deeppink;
+    color: black;
     text-align: center;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
     font-variant: normal;
     font-size: 25px;
+    padding-left: 20px;
 }
 
 h2{
@@ -82,7 +80,6 @@ p.main{
 
 }
 
-#image{
-    align-self: center;
-    padding-left: 550px;
+img{
+    float: left;
 }
