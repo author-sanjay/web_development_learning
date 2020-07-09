@@ -2,6 +2,22 @@
     background-image:url(https://www.pexels.com/photo/earth-desert-dry-hot-60013/) ;
 }
 
+header{
+    background-color: fuchsia;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    height: 100px;
+}
+
+p.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: inherit;
+    padding-top: 20px;
+    font-size: 35px;
+}
+
 h1{
     color: darkgreen;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
