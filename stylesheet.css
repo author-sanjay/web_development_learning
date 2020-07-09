@@ -1,12 +1,12 @@
 body{
-    background-image:url("https://www.telegraph.co.uk/content/dam/Travel/2018/November/Gobi-GettyImages-845456048-xlarge.jpg") ;
+    background-image:url("https://omaneric.files.wordpress.com/2010/10/dsc02998r.jpg") ;
     background-attachment: fixed;
-    background-repeat: round;
+    background-repeat: no-repeat;
     background-position: center;
 }
 
 header{
-    background-color: fuchsia;
+    background-image: url("https://demo.qodeinteractive.com/central/wp-content/uploads/2013/05/header.jpg");
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bolder;
     text-align: center;
@@ -37,6 +37,7 @@ p.intro{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-content: center;
     text-align: left;
+    padding-left: 110px;
 }
 
 img{
