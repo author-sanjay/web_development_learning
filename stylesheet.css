@@ -1,5 +1,8 @@
-.main{
-    background-image:url(https://www.pexels.com/photo/earth-desert-dry-hot-60013/) ;
+body{
+    background-image:url("https://www.telegraph.co.uk/content/dam/Travel/2018/November/Gobi-GettyImages-845456048-xlarge.jpg") ;
+    background-attachment: fixed;
+    background-repeat: round;
+    background-position: center;
 }
 
 header{
@@ -19,21 +22,21 @@ p.header{
 }
 
 h1{
-    color: darkgreen;
+    color: ivory;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
-    font-weight: bolder;
+    font-weight: 200px;
     font-variant: normal;
     text-align: center;
     font-size: 80px;
 }
 
 p.intro{
-    color: brown;
+    color: black;
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-content: center;
-    text-align: center;
+    text-align: left;
 }
 
 img{
