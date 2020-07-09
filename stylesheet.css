@@ -1,5 +1,5 @@
 .main{
-    background-color: aquamarine;
+    background-image:url(https://www.pexels.com/photo/earth-desert-dry-hot-60013/) ;
 }
 
 h1{
@@ -9,6 +9,7 @@ h1{
     font-weight: bolder;
     font-variant: normal;
     text-align: center;
+    font-size: 80px;
 }
 
 p.intro{
@@ -16,6 +17,12 @@ p.intro{
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-content: center;
+    text-align: center;
+}
+
+img{
+    align-self: center;
+    align-items: center;
 }
 
 h3.question{
@@ -24,14 +31,16 @@ h3.question{
     font-weight: bolder;
     text-align: center;
     vertical-align: auto;
+    font-size: 30px;
 
 }
 p.body{
     color: deeppink;
-    align-content: center;
+    text-align: center;
     font-size: medium;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-variant: normal;
+    font-size: 25px;
 }
 
 h2{
@@ -41,4 +50,19 @@ h2{
     font-weight: bolder;
     font-variant: normal;
     text-align: center;
+    font-size: 25px;
+}
+p.main{
+    color: fuchsia;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+    text-align: center;
+    
+
+}
+
+#image{
+    align-self: center;
+    padding-left: 550px;
 }
