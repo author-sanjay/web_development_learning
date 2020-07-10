@@ -99,5 +99,7 @@ div.animation{
     background-clip: padding-box;
     opacity: 0.5;
     /*transition: ease 5s;*/
-    transform: skew(30deg)
+    transform: skew(30deg);
+    transform: translate(-20px, 50px);
+    transform: rotate3d(15deg, 50deg, 45deg);
 }
