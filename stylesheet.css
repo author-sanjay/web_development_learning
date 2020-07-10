@@ -98,5 +98,6 @@ div.animation{
     border: 20px solid rebeccapurple;
     background-clip: padding-box;
     opacity: 0.5;
-    transition: ease 5s;
+    /*transition: ease 5s;*/
+    transform: skew(30deg)
 }
