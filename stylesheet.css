@@ -42,8 +42,6 @@ p.intro{
     padding-left: 110px;
 }
 
-
-
 h2.question{
     color: darkmagenta;
     font-style: oblique;
@@ -88,4 +86,11 @@ p.main{
 
 img{
     float: left;
+    
+    
+}
+div.animation{
+    text-align: center;
+    float: left;
+    font-size: 150px;
 }
