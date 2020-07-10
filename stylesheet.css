@@ -3,7 +3,8 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    background: linear-gradient(rgb(29, 175, 24),yellow,red, rgb(52, 179, 52));
+    /*background: linear-gradient(rgb(29, 175, 24),yellow,red, rgb(52, 179, 52));*/
+    background: radial-gradient(rgba(226, 170, 17, 0.986), rgb(182, 37, 138), rgb(20, 155, 179),rgb(7, 173, 57));
 }
 
 header{
