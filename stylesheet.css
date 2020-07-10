@@ -1,8 +1,9 @@
 body{
-    background-image:url("https://omaneric.files.wordpress.com/2010/10/dsc02998r.jpg") ;
+    /*background-image:url("https://omaneric.files.wordpress.com/2010/10/dsc02998r.jpg") ;*/
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
+    background: linear-gradient(rgb(29, 175, 24),yellow,red, rgb(52, 179, 52));
 }
 
 header{
