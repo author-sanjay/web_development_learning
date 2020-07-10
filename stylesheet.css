@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     /*background: linear-gradient(rgb(29, 175, 24),yellow,red, rgb(52, 179, 52));*/
-    background: radial-gradient(circle,rgba(226, 170, 17, 0.986), rgb(182, 37, 138), rgb(20, 155, 179),rgb(7, 173, 57));
+    background: linear-gradient(45deg,rgba(226, 170, 17, 0.986)20%, rgb(182, 37, 138)40%, rgb(20, 155, 179)50%,rgb(7, 173, 57)60%);
 }
 
 header{
